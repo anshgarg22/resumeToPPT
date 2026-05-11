@@ -95,8 +95,7 @@ function App() {
         </div>
 
         <h1>
-          Resume → Beautiful <br />
-          PowerPoint
+          Resume → Beautiful PowerPoint
         </h1>
 
         <p>
